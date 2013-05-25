@@ -23,7 +23,7 @@ public class GettingStartedHazelCast {
 	}
 	
 	public void testMethode(){
-		System.out.println("testing!!!");
+		System.out.println("testing!!! 123");
 	}
 
 }
