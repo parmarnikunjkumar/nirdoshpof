@@ -21,5 +21,9 @@ public class GettingStartedHazelCast {
 			System.out.println(str);
 		}
 	}
+	
+	public void testMethode(){
+		System.out.println("testing!!!");
+	}
 
 }
