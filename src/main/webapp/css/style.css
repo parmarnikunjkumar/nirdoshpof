@@ -1,0 +1,46 @@
+div#header{
+	padding:1%;
+	background: #ddd 98% 10px no-repeat;
+	border-bottom: 6px double gray;
+}
+div#header p{
+	font-style: italic;
+	font-size: 1.1em;
+	margin:0;
+}
+div#container{
+	width: 100%;
+	background: #f0f0f0;
+	height: auto;
+}
+
+div#content{
+	padding:10%;
+	
+}
+div#content p{
+	text-align: justify;
+	padding: 0 1em;
+}
+div#footer{
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	border-top: 6px double gray;
+	background: #ddd 98% 10px no-repeat;
+}
+div#footer p{
+	padding: 1%;
+	margin: 0;
+}
+
+#caleder_pos{
+	float: right;
+}
+#time_pos{
+	clear:right;
+	float: right;	
+}
+.center{
+	text-align: center;
+}
